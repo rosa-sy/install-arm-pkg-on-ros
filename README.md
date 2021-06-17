@@ -6,9 +6,11 @@ installing arm pkg on Ros,as a first task where I take my summer training in  ( 
 first of all download VM virtualBoxManager ...
 then download ubuntu(18.04) ..
 and  Ros(melodic) by copying some  order
+
 ![image](https://user-images.githubusercontent.com/85003576/122482971-4016fa80-cfda-11eb-9b06-ffa5f0fefb5c.png)
 ![image](https://user-images.githubusercontent.com/85003576/122482929-2bd2fd80-cfda-11eb-82c8-78ce206c2c3e.png)
 ![image](https://user-images.githubusercontent.com/85003576/122482999-4dcc8000-cfda-11eb-8d1c-14ce75c5be5f.png)
+
 ##  upload arm package 
 
 install catkin then  name the workspace that to install the package of arm in it .
